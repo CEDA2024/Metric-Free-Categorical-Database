@@ -6,7 +6,6 @@ HSIEH FUSHING<sup>1</sup>, HONG-WEI KAO<sup>2</sup>, and ELIZABETH P. CHOU<sup>2
 
 <sup>2</sup> Department of Statistics, National Chengchi University, Taipei, Taiwan.
 
-Corresponding author: Hsieh Fushing (e-mail: fhsieh@ucdavis.edu). Elizabeth P. Chou (e-mail: eptchou@g.nccu.edu.tw)
 
 ## Histograms of Conditional Entropy of Y Given 1 or 2 Features Across Different Age Groups
 
